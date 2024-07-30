@@ -22,11 +22,11 @@ I dual boot (Linux Mint MATE and Windows 10). I mostly use Linux Mint.
 
 
 ### Text editors and IDEs
-I mostly use VSCode due to its conveniency. I do like to use neovim if I am working on small programs.
+I mostly use Emacs but I do use VSCode occasionally.
 
 
-| VSCode| Neovim | 
+| VSCode| Emacs | 
 |------------|------------|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=55 height=55/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width=55 height=55/> |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=55 height=55/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" width=55 height=55/> |
           
 

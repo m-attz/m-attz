@@ -2,6 +2,8 @@
 
 Hello, I am m-attz. I'm an avid programmer, and a college student. I also like to read.
 
+**Current Project:** Discord bot (using discord.py)
+
 
 I know a multitude of languages at different levels such as:
 
@@ -14,9 +16,9 @@ I know a multitude of languages at different levels such as:
 
 ### Operating systems
 
-I dual boot (Linux Mint MATE and Windows 10). I mostly use Linux Mint.
+I dual boot (Linux Mint MATE and Windows 10). I mostly use Fedora.
 
-| Linux Mint | Windows |
+| Fedora | Windows |
 |------------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=55 height=55/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width=55 height=55/> |
 

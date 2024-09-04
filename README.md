@@ -16,7 +16,7 @@ I know a multitude of languages at different levels such as:
 
 ### Operating systems
 
-I dual boot (Linux Mint MATE and Windows 10). I mostly use Fedora.
+I dual boot (Fedora and Windows 10). I mostly use Fedora.
 
 | Fedora | Windows |
 |------------|------------|
